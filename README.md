@@ -9,7 +9,7 @@
 </h1>
   <p>
     <h3>👩🏻‍💻 Frontend Developer</h3>
-    <div>UX를 중요하게 생각하는 개발자✨</div>
+    <div>UX가 중요한 개발자✨</div>
   </p>
 <p>
     <a href="https://www.instagram.com/cindycho_0423/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
