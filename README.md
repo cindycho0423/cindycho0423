@@ -23,3 +23,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=cindycho0423&show_icons=true&theme=radical&title_color=FF6A88&text_color=fff&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cindycho0423&theme=radical&hide_border=true" />
 </div>
+
+<picture>
+<!--   <source media="(prefers-color-scheme: dark)" srcset="./assets/contribution-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/contribution-snake.svg" /> -->
+  <img alt="github-snake" src="./assets/ocean.gif" />
+</picture>
