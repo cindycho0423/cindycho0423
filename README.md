@@ -19,7 +19,7 @@
 
 <h2>📊 GitHub Stats</h2>
 
-<div align="center">
+<div style="display: flex; justify-content: space-between; gap: 16px; width: 100%;">
   <img src="https://github-readme-stats.vercel.app/api?username=cindycho0423&show_icons=true&theme=radical&title_color=FF6A88&text_color=fff&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cindycho0423&theme=radical&hide_border=true" />
 </div>
