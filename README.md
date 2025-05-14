@@ -8,7 +8,7 @@
 </span>
 </h1>
   <p>
-    <h3>👩🏻‍💻 Frontend Developer</h3>
+    <h3>👩🏻‍💻 Software Engineer</h3>
     <div>UX가 중요한 개발자✨</div>
   </p>
 <p>
